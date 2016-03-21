@@ -1,5 +1,10 @@
 TODO:
 
+## PRIMARY
+
+# MIDI
+	[] Enable MIDI support
+
 ## Musescore
 	[] Realtime recording
 	[] Shortcut for pedal
