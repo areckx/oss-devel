@@ -1,0 +1,11 @@
+TODO:
+
+## Musescore
+	[] Realtime recording
+	[] Shortcut for pedal
+	[] Simultaneous recording right-hand into one track, left hand into other
+	[] Bridge between qtrac and mscore
+		-- edit notes in mscore from Qtractor live
+
+## ossxmix
+	[] fix large spaces between sliders
